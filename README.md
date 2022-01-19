@@ -1,4 +1,4 @@
-A simple recipe webpage. This is one of my earlier projects, I know it's ugly, and I don't know if i'll change it. You can check out my recent projects if you want to see something prettier.
+A simple recipe webpage. This is one of my earlier projects, I know it's ugly. You can check out my recent projects if you want to see something prettier.
 
 **Photos**
 
